@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript ecosystem**
 
-- 📫 How to reach me **HenriqueAssisDev@protonmail.com**
+- 📫 How to reach me **HenriqueAssisDev@protonmail.com**  
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
