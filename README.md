@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
 
-- 🌱 I’m currently learning **Reactjs and Vuejs**
+- 🌱 I’m currently learning **Vuejs**
 
 - 📫 How to reach me **henrique.assis145@gmail.com**  
 
