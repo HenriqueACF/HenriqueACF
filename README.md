@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,Vuejs, Quasar and Reactjs**
+- 👨‍💻 I'm currently working with **Vuejs and Quasar**
+
+- 🌱 I’m currently learning **Vuejs, Quasar, Reactjs and Nodejs**
 
 - 📫 How to reach me **henrique.assis145@gmail.com**  
 
