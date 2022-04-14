@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Assis</h1>
 <h3 align="center">A  frontend developer and a future software engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
 
 - 👨‍💻 I'm currently working with **Vuejs and Quasar**
 
