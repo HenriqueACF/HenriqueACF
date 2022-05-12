@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm currently working with **Vuejs and Quasar**
 
-- 🌱 I’m currently learning **Vuejs, Quasar, Reactjs and Nodejs**
+- 🌱 I’m currently learning **Vuejs, Quasar, Reactjs and Nodejs/Adonisjs**
 
 - 📫 How to reach me **henrique.assis145@gmail.com**  
 
