@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Assis</h1>
-<h3 align="center">A  frontend developer and a software engineer from Brazil</h3>
+<h3 align="center">A  frontend and mobile developer and a software engineer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
 
