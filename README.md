@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henriqueacf&label=Profile%20views&color=0e75b6&style=flat" alt="henriqueacf" /> </p>
 
-- 👨‍💻 I'm currently working with **Vuejs and Quasar**
+- 👨‍💻 I'm currently working with **Vuejs, Quasar and React Native**
 
 - 🌱 I’m currently learning **Vuejs, Quasar, Nextjs, React Native and Nodejs/Adonisjs**
 
